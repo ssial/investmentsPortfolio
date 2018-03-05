@@ -1,7 +1,7 @@
 Sawaiba Sial
 0990358
-Assignment 3
-CIS *2430
+
+INVESTMENTS PORTFOLIO
 
 Description:
 This program creates an investment portfolio that stores and manipulates two types of investments; stocks and mutual funds.
